@@ -1,1 +1,1 @@
-# WeeklyTest
+# API Assignment
